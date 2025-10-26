@@ -1,0 +1,14 @@
+form {
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    box-shadow: 2px 2px 8px rgba(165, 39, 39, 0.1);
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background: -webkit-linear-gradient(to right #05381a, #0bfd33);
+    background: linear-gradient(to right, #152cac, #c71ab9);
+}
